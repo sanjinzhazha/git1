@@ -1,2 +1,2 @@
 example of commit 
-change the file
+add and commit toqether
